@@ -22,5 +22,7 @@ Discover Top Tourist Destinations: Browse a curated list of the top 20 tourist d
 If you're interested in contributing to the development of Tour Minglea, reach out to the project owner, S RAVIKUMAR 2024, to discuss the contribution process.
 
 ##License Information
+
+
 [MIT LICENSE ](LICENSE)
 The license information for Tour Minglea is to be determined. Please refer to the website or contact the project owner for details on the specific license used.
